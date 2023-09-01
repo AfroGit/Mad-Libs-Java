@@ -11,6 +11,14 @@ public class MadLibs{
 
   public static void main(String[] args){
 
+    //1. Get the season of the year.
+    System.out.println("");
+    Scanner scanner = new Scanner(System.in);
+
+    //2. Get a descriptive adj from user.
+
+    //3. Get the number of cups consumed. 
+
     
 
     System.out.println("Hello world!");
